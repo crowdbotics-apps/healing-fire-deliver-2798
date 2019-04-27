@@ -1,0 +1,3 @@
+rootProject.name = 'healing_fire_deliver_2798'
+
+include ':app'
